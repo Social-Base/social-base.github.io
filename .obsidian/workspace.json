@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-10-12-test.md",
+                "file": "_posts/2025-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-12-test"
+              "title": "2025-10-24"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-10-12-test.md",
+                "file": "2025-10-12-conflations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-12-test"
+              "title": "Backlinks for 2025-10-12-conflations"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-10-12-test.md",
+                "file": "2025-10-12-conflations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-12-test"
+              "title": "Outgoing links from 2025-10-12-conflations"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-10-12-test.md",
+                "file": "2025-10-12-conflations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-12-test"
+              "title": "Outline of 2025-10-12-conflations"
             }
           }
         ]
@@ -184,11 +184,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "52f3e19c852182da",
+  "active": "da74368281700ab1",
   "lastOpenFiles": [
+    "2025-10-24.md",
+    "_posts/2025-10-24.md",
+    "_posts/2025-09-24.md",
+    "_posts/2025-08-24.md",
     "Index.md",
-    "About.md",
     "_posts/2025-10-12-test.md",
+    "About.md",
+    "2025-10-12-conflations.md",
+    "Untitled.md",
     "_layouts",
     "_posts"
   ]
