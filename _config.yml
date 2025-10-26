@@ -1,2 +1,12 @@
 title: Social Base
 theme: minima
+description: Digital resource for social science researchers
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
