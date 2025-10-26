@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-10-24.md",
+                "file": "_posts/2025-10-26 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-24"
+              "title": "2025-10-26 4"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "200b8c4f96e73dbc",
@@ -184,15 +184,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "da74368281700ab1",
+  "active": "52f3e19c852182da",
   "lastOpenFiles": [
-    "2025-10-24.md",
+    "Index.md",
+    "_posts/2025-10-26 4.md",
+    "About.md",
+    "_posts/2025-10-26 3.md",
+    "_posts/2025-10-26.md",
+    "_posts/2025-10-26 1.md",
+    "_posts/2025-10-26 2.md",
     "_posts/2025-10-24.md",
     "_posts/2025-09-24.md",
     "_posts/2025-08-24.md",
-    "Index.md",
+    "2025-10-24.md",
     "_posts/2025-10-12-test.md",
-    "About.md",
     "2025-10-12-conflations.md",
     "Untitled.md",
     "_layouts",
